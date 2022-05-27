@@ -157,7 +157,7 @@ h2 {
 
 #companies img,
 #volunteering img {
-  height: 40px;
+  height: 70px;
   cursor: pointer;
 }
 
@@ -221,6 +221,7 @@ article:nth-child(2n) .app-links {
 #volunteering .flex {
   margin-top: 2rem;
   justify-content: space-evenly;
+  align-items: center;
   flex-wrap: wrap;
   gap: 2rem;
 }
